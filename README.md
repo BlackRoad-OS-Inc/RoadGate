@@ -1,3 +1,11 @@
+# RoadGate
+
+> Road Fleet: roadgate — Rust LLM gateway, sub-1ms P99 at 10K+ QPS. Fork of TensorZero.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # RoadGate — Sovereign LLM Gateway
 
 > Forked from [TensorZero](https://github.com/tensorzero/tensorzero). Rust-powered LLM routing for BlackRoad OS.
